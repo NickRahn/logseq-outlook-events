@@ -17,7 +17,7 @@ Key features:
 I was not documenting my steps to create this well at all so this is unfinished and would love for someone to test out its creation.
 
 1. Clone this repo
-2. Configure settings in `config.json` 
+2. rename 'exampleconfig.json' to 'config.json' Configure settings in `config.json` 
 3. install dependencies (node.js, pywin32)
 4. Schedule `main.py` to run at startup (needs to run as outlook user) (run manually or restart pc)
 5. add plugin as an unpacked plugin to logseq

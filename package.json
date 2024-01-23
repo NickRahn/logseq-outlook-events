@@ -1,7 +1,7 @@
 {
   "name": "logseq-outlook-events",
   "version": "0.0.1",
-  "description": "get outlook events",
+  "description": "get outlook events using a slash command",
   "main": "index.html",
   "author": "Nick Rahn",
   "license": "MIT",

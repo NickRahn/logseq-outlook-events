@@ -1,2 +1,5 @@
 appointments.json
 appointments.txt
+config.json
+app.log
+util.log
