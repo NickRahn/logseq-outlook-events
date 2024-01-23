@@ -1,0 +1,6 @@
+{
+    "person_name": "First Last",
+    "ignore_canceled": true,
+    "utilFileLocation": "C:\\PATH\\TO\\Repository", 
+    "ignore_list": [ "testmeeting101","meeting names go here" ]
+}

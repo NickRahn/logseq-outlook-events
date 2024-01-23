@@ -1,0 +1,9 @@
+{
+  "name": "logseq-outlook-events",
+  "version": "0.0.1",
+  "description": "get outlook events",
+  "main": "index.html",
+  "author": "Nick Rahn",
+  "license": "MIT",
+  "type": "module"
+}
