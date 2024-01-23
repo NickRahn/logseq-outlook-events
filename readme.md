@@ -18,9 +18,10 @@ I was not documenting my steps to create this well at all so this is unfinished 
 
 1. Clone this repo
 2. rename 'exampleconfig.json' to 'config.json' Configure settings in `config.json` 
-3. install dependencies (node.js, pywin32)
-4. Schedule `main.py` to run at startup (needs to run as outlook user) (run manually or restart pc)
-5. add plugin as an unpacked plugin to logseq
+3. install python
+4. pip install -r requirements.txt
+5. Schedule `main.py` to run at startup (needs to run as outlook user) (run manually or restart pc)
+6. add plugin as an unpacked plugin to logseq
 
 ## Usage
 
